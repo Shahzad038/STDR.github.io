@@ -13,7 +13,7 @@ If you want to download a code in Zip file then you click on Download Zip(Button
 ## Clone the Project:
 To Clone the Project use this command by following the instructions that are described below.
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $ git clone https://github.com/Shahzad038/STDR.github.io.git
 ```
 ## Cloning a repository
 
@@ -28,7 +28,7 @@ To Clone the Project use this command by following the instructions that are des
 1. Type git clone, and then paste the URL you copied earlier.
 
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $ git clone https://github.com/Shahzad038/STDR.github.io.git
 ```
 
 6. Press Enter to create your local clone.
