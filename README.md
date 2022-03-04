@@ -34,7 +34,7 @@ To Clone the Project use this command by following the instructions that are des
 6. Press Enter to create your local clone.
 
 ```bash
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Shahzad038/STDR.github.io.git
 > Cloning into `Your Folder Name`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
